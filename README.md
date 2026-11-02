@@ -167,6 +167,4 @@ Python · Game Development · Desktop Applications
 
 **Think ahead. Make your move. Connect four.**
 
-⭐ If you like this project, consider giving the repository a star!
-
 </div>
